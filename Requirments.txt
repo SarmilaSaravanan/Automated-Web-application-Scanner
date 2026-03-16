@@ -1,0 +1,11 @@
+Go (latest version)
+
+Linux OS (Kali / Ubuntu recommended)
+
+The tool automatically checks and installs:
+
+1. subfinder
+
+2. katana
+
+3. nuclei
